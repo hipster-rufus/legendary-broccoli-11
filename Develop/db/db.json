@@ -1,12 +1,17 @@
 [
     {
         "title": "Grocery List",
-        "text": "Eggs\nMore eggs\nEven more eggs than before\nLess eggs",
-        "id": "b4675100-31b3-4d75-9db9-98fe337d6e3d"
+        "text": "Eggs\nMore eggs\n1000 candles\nNew spatula\nNew evil spatula twin\nTide pods\nTide pod-sized spoons",
+        "id": "47987261-cd04-4e72-aac1-5f039679a094"
     },
     {
-        "title": "Words that start with H",
-        "text": "Heart\nHome\nHaggard\nHell\nHumble",
-        "id": "937ab9c4-6f63-4ccb-94c6-591da83fe7ef"
+        "title": "Names that start with W",
+        "text": "Walter\nWallace\nWilliam\nWombo\nWillard\nWendel",
+        "id": "4f085c2f-bac5-46b9-8d37-ce5793b5956d"
+    },
+    {
+        "title": "To-Do",
+        "text": "Content for to-do list",
+        "id": "50bc8ad3-40a9-4b8d-b2b4-30f07523c536"
     }
 ]
