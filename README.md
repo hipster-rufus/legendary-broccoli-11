@@ -20,5 +20,7 @@ The following websites were used to generate this project:
 
 [Professional README.md Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
+[Heroku App Error Troubleshooting](https://stackoverflow.com/questions/14322989/first-heroku-deploy-failed-error-code-h10)
+
 ## License
 None.
